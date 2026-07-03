@@ -1,24 +1,31 @@
 # 🛒 Ecommerce Site
 
 ## 📌 Description
-A modern e-commerce web application built using React and Tailwind CSS.  
-The project simulates an online store with dynamic UI and product management.
+A simple e-commerce website built using HTML, CSS, and JavaScript.  
+The project simulates an online store with product display and basic user interactions.
 
 ## 🚀 Features
-- Product listing with components  
-- Add to cart functionality (state management)  
-- Responsive design with Tailwind CSS  
-- Clean and modern UI  
+- Product listing page  
+- Add to cart (UI logic)  
+- Responsive design  
+- Clean and simple UI  
 
 ## 🛠 Tech Stack
-- React  
-- JavaScript (ES6+)  
-- Tailwind CSS  
 - HTML5  
+- CSS3  
+- JavaScript (ES6+)
 
 ## ▶️ How to Run
-1. Clone the repository  
-2. Run:
-```bash
-npm install  
-npm run dev
+1. Download or clone the repository  
+2. Open `index.html` in your browser  
+
+## 📷 Screenshots
+(Add images if available)
+
+## 🎯 Future Improvements
+- Add backend (Java / Spring Boot)  
+- Improve cart logic  
+- Add user authentication  
+
+## 📫 Contact
+GitHub: https://github.com/Murad202523
